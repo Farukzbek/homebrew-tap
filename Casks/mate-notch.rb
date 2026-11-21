@@ -1,6 +1,6 @@
 cask "mate-notch" do
-  version "1.0.10"
-  sha256 "39f7efd8758e49cd4044b09f29e61a1703daed9f3b32f34fd80a3c1686136af3"
+  version "1.0.11"
+  sha256 "f3ff87bf84c41304746facd66febfb3fe3c82c7db09fd3a05be4aa5acd5a84f9"
 
   url "https://github.com/Farukzbek/Mate-Notch/releases/download/v#{version}/Mate-Notch.dmg"
   name "Mate Notch"
